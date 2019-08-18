@@ -7797,7 +7797,8 @@ h1, h2, h3, h4, h5,
     .services-wrap {
       margin-bottom: 30px; } }
   .services-wrap .img, .services-wrap .text {
-    width: 50%; }
+    width: 50%;
+  height: 200px; }
   .services-wrap .img {
     display: block; }
   .services-wrap .text {
